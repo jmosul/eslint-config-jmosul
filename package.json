@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-jmosul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmosul/eslint-config-jmosul.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "James O'Sullivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmosul/eslint-config-jmosul/issues"
+  },
+  "homepage": "https://github.com/jmosul/eslint-config-jmosul#readme"
+}
